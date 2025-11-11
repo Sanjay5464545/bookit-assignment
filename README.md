@@ -1,4 +1,4 @@
- # BookIt - Travel Experience Booking Platform
+# BookIt - Travel Experience Booking Platform
 
 Full-stack web application for discovering and booking travel experiences across India.
 
@@ -88,7 +88,6 @@ UI designed using Figma specifications with amber/yellow branding.
 
 ##  Author
 
-[Your Name]  
-Email: [Your Email]  
-GitHub: [Your GitHub Profile]
-
+Sanjay Golappanavar  
+Email: sanjaygolappanvar@gmail.com  
+GitHub: https://github.com/Sanjay5464545
